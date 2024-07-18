@@ -24,6 +24,9 @@ yarn -v
 #### install bun
 curl -fsSL https://bun.sh/install | bash
 
+#### config node memory
+export NODE_OPTIONS="--max-old-space-size=8192"
+
 #### install composer with php8.*
 sudo apt install composer
 
