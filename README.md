@@ -125,4 +125,11 @@ https://sdkman.io/
 
 sdk install gradle kotlin
 
+#### install psysh
+
+wget https://psysh.org/psysh
+chmod +x psysh
+./psysh
+
+
 
