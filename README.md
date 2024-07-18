@@ -120,3 +120,9 @@ sudo mv upx /usr/local/bin
 #### install htop for linux
 sudo apt install htop
 
+#### install sdk
+https://sdkman.io/
+
+sdk install gradle kotlin
+
+
