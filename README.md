@@ -111,3 +111,12 @@ sudo apt install -y protobuf-compiler
 
 #### install imagemagick
 sudo apt install imagemagick
+
+#### install upyun upx command for linux
+https://github.com/upyun/upx?tab=readme-ov-file
+chmod +x upx
+sudo mv upx /usr/local/bin
+
+#### install htop for linux
+sudo apt install htop
+
