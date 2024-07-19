@@ -131,5 +131,17 @@ wget https://psysh.org/psysh
 chmod +x psysh
 ./psysh
 
-
-
+#### link applications
+eg: clash-verge.desktop
+```
+[Desktop Entry]
+Name=Clash Verge
+Exec=/opt/clash-verge.appimage
+Icon=~/.local/share/icons/clash/clash_logo.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;Utility;
+StartupNotify=false
+```
