@@ -145,3 +145,6 @@ Encoding=UTF-8
 Categories=Application;Utility;
 StartupNotify=false
 ```
+
+#### install ibus-pinyin [fcitx5 兼容性 debian12 不好]
+sudo apt install -f -y ibus-pinyin
